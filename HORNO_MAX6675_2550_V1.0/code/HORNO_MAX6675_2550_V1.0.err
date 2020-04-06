@@ -1,0 +1,22 @@
+--- Info 300 "HORNO_MAX6675_2550_V1.0.c" Line 44(1,1): More info:   PWM Resolution: 8,97 bits
+>>> Warning 203 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\funciones.h" Line 122(1,1): Condition always TRUE
+>>> Warning 203 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\funciones.h" Line 192(1,1): Condition always TRUE
+>>> Warning 203 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\funciones.h" Line 193(1,1): Condition always TRUE
+>>> Warning 203 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\funciones.h" Line 368(1,1): Condition always TRUE
+>>> Warning 229 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\funciones.h" Line 524(1,1): Subscript out of range
+>>> Warning 229 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\funciones.h" Line 525(1,1): Subscript out of range
+>>> Warning 203 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\funciones.h" Line 547(1,1): Condition always TRUE
+>>> Warning 203 "HORNO_MAX6675_2550_V1.0.c" Line 129(1,1): Condition always TRUE
+>>> Warning 202 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\tones.c" Line 23(12,18): Variable never used:   C_NOTE
+>>> Warning 202 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\tones.c" Line 24(12,19): Variable never used:   Db_NOTE
+>>> Warning 202 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\tones.c" Line 25(12,18): Variable never used:   D_NOTE
+>>> Warning 202 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\tones.c" Line 26(12,19): Variable never used:   Eb_NOTE
+>>> Warning 202 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\tones.c" Line 28(12,18): Variable never used:   F_NOTE
+>>> Warning 202 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\tones.c" Line 29(12,19): Variable never used:   Gb_NOTE
+>>> Warning 202 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\tones.c" Line 30(12,18): Variable never used:   G_NOTE
+>>> Warning 202 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\tones.c" Line 31(12,19): Variable never used:   Ab_NOTE
+>>> Warning 202 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\tones.c" Line 32(12,18): Variable never used:   A_NOTE
+>>> Warning 202 "E:\iWork\PROYECTOS_PIC\HORNO\HORNO_MAX6675_2550_V1.0\tones.c" Line 33(12,19): Variable never used:   Bb_NOTE
+      Memory usage:   ROM=36%      RAM=3% - 8%
+      0 Errors,  18 Warnings.
+Build Successful.

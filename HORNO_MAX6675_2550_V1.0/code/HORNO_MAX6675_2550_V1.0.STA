@@ -1,0 +1,126 @@
+
+ROM used:   11884/16384 (36%)
+            11884/16384 (36%) including unused fragments
+
+            2.8 Average locations per line
+            14.0 Average locations per statement
+
+RAM used:   64/2048 (3%) at main() level
+            156/2048 (8%) worst case
+
+Stack used: 10 worst case (9 in main + 1 for interrupts)
+Stack size: 31
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  144    52   6  HORNO_MAX6675_2550_V1.0.c
+  759     0   0  C:\Program Files (x86)\PICC\Devices\18F2550.h
+  456   100  12  C:\Program Files (x86)\PICC\Drivers\lcd.c
+ 2229   257  30  C:\Program Files (x86)\PICC\Drivers\math.h
+   81    21   2  tones.c
+  569   417  49  funciones.h
+----- -----
+ 4238   847 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     38   0    1             @delay_ms1
+0     32   0    1             @delay_us1
+0     78   0    6             @SPI_XFER_1
+0     78   0    6             @SPI_XFER_2
+0     30   0    0             @const668
+0     74   0    3   760  4.5  lcd_read_byte
+0     82   0    2   262  3.7  lcd_read_nibble
+0     64   0    1   399  2.4  lcd_send_nibble
+0     70   0    3   415  3.7  lcd_send_byte
+0    110   0    2   704  5.0  lcd_init
+0     34   0    4   208  6.3  lcd_gotoxy
+0     80   0    1   354  4.7  lcd_putc
+0     74   0    5   267  6.8  lcd_set_cgram_char
+0    118   0   10             @FLT
+0     56   0    4             @SFTOI
+0     54   0    2             @ITOF
+0    242   1   11             @MULFF
+0    618   3   16             @ADDFF
+0    346   1   14             @DIVFF
+0     54   0    5   285  4.3  do_delay
+0    468   2   26   777  6.7  generate_tone
+0    142   1   13             @DIV3232
+0     66   0    5             @DIV1616
+0     86   0   14             @MUL3232
+0    254   1    2   831  3.4  tono
+0    380   2    1  1965  9.9  mode_insert
+0      2   0    0             @const911
+0     32   0    2             @PSTRINGC_687
+0     28   0    0             @const914
+0      2   0    0             @const915
+0     16   0    0             @const917
+0      2   0    0             @const918
+0     36   0    2             @PSTRINGR_687
+0     40   0    3             @DIV88
+0    102   0    2             @PRINTF_U_687
+0    288   1    3   852  6.1  read_tmp
+0     18   0    0             @const931
+0     18   0    0             @const933
+0   2038   9    1  5933  3.5  subroutine_mode
+0      2   0    0             @const937
+0      8   0    0             @const939
+0    716   3   37   791  6.3  PID
+0    884   4    4  1878  8.9  precalentamiento
+0      2   0    0             @const955
+0     48   0    0             @const957
+0      2   0    0             @const958
+0     18   0    0             @const960
+0     64   0    5             @FTOSD
+0    388   2   13             @PRINTF_L32D_687FPFPF
+0      4   0    0             @const968
+0      2   0    0             @const969
+0    612   3    4  1030  5.8  calentamiento
+0      2   0    0             @const974
+0     16   0    0             @const976
+0      4   0    0             @const979
+0      2   0    0             @const980
+0    614   3    4  1030  5.8  refusion
+0      2   0    0             @const985
+0     14   0    0             @const987
+0      4   0    0             @const990
+0      2   0    0             @const991
+0    618   3    4  1061  5.8  enfriamiento
+0      2   0    0             @const996
+0     16   0    0             @const998
+0      4   0    0             @const1001
+0      2   0    0             @const1002
+0     76   0    0   524  2.9  restart
+0    404   2    4   786  5.7  over
+0      2   0    0             @const1006
+0     18   0    0             @const1008
+0      2   0    0             @const1010
+0     18   0    0             @const1012
+0     18   0    0    83  3.5  RTCC_isr
+0    774   3    1  1631  3.9  MAIN
+0     12   0    0             @const1019
+0     10   0    0             @const1021
+0      2   0    0             @const1022
+ Inline         0             @cinit1
+
+Program metrics:
+    Functions               23
+    Statements              847
+    Comments                651
+    Volume (V)              36822
+    Difficulty (D)          115.0
+    Effort to implement (E) 4235775
+    Time to implement (T)   65 hours, 22 minutes
+    Est Delivered Bugs (B)  9
+    Cyclomatic Complexity   44
+    Maintainability (MI)    120
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00002     4  0  
+00004-00006     0  4  
+00008-00094   142  0  
+00096-07FFE  11738  20880  
+
+
+

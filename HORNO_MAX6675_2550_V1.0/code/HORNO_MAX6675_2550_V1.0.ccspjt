@@ -1,0 +1,21 @@
+[PROJECT]
+Target=HORNO_MAX6675_2550_V1.0.hex
+Processor_Text=PIC18F2550
+CCSVersion=5.010
+Compiler=PCH
+[Target Data]
+FileList=HORNO_MAX6675_2550_V1.0.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\C:\Program Files (x86)\PICC\Devices\
+[HORNO_MAX6675_2550_V1.0.c]
+Type=4
+[mru-list]
+1=HORNO_MAX6675_2550_V1.0.c
+[Opened Files]
+1=HORNO_MAX6675_2550_V1.0.c
+2=
+3=
+4=
+[Units]
+Count=1
+1=HORNO_MAX6675_2550_V1.0 (main)
